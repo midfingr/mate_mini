@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo apt-get install mate-common mate-themes light-themes ubuntu-mate-themes fonts-liberation mate-media mate-power-manager mate-system-tools mate-system-monitor mate-tweak ntp caja-open-terminal gdebi parcellite
