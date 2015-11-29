@@ -1,7 +1,9 @@
 # mate_mini
 Quick HowTo:
+- post initial boot of ubuntu mini.iso
+- sudo apt-get install git
 
-- after dowmloading
+- git clone https://github.com/midfingr/mate_mini
 - cd mate_mini
 - chmod +x ins
 - type: ./ins ## supply password
